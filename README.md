@@ -1,4 +1,4 @@
-<h2 align="left"># Hi 👋, I'm Banoth Sandeep Naik<br><br>🚀 Passionate Frontend Developer | Aspiring Full-Stack Engineer | AI Tools Enthusiast 📍 Based in India | Focused on MERN Stack | Lifelong Learner<br>🔭 I’m currently working on Making full stack on using of AI - tools<br><br>🌱 I’m currently learning FramWorks , AI-Tools , FullStack<br><br>💬 Ask me about Basic web dev and , Ai-Tools handling<br><br> ⚡ Fun fact I speak funny<br><br>📫Connect with me: sandeepnaikb0@gmail.com</h2>
+<h2 align="left"> Hi 👋, I'm Banoth Sandeep Naik<br><br>🚀 Passionate Frontend Developer | Aspiring Full-Stack Engineer | AI Tools Enthusiast 📍 Based in India | Focused on MERN Stack | Lifelong Learner<br>🔭 I’m currently working on Making full stack on using of AI - tools<br><br>🌱 I’m currently learning FramWorks , AI-Tools , FullStack<br><br>💬 Ask me about Basic web dev and , Ai-Tools handling<br><br> ⚡ Fun fact I speak funny<br><br>📫Connect with me: sandeepnaikb0@gmail.com</h2>
 
 ###
 
